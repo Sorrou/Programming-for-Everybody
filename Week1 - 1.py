@@ -1,1 +1,1 @@
-print('lalala')12
+print('lalala')
